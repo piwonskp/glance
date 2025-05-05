@@ -54,8 +54,6 @@ This configuration integrates Glance with Waybar. Here's how it works:
 
 Add this configuration to your Waybar `config.json` file and restart Waybar to enable Glance integration.
 
-After adding this configuration, restart Waybar to apply the changes.
-
 ## FAQ
 
 ### Do Not Disturb Mode
