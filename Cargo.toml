@@ -4,8 +4,10 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+clap = { version = "4.5.37", features = ["derive"] }
 indexmap = "2.9.0"
 libc = "0.2.172"
 serde_json = "1.0.140"
 tokio = { version = "1.44.2", features = ["full"] }
 zbus = "5.5.0"
+serde = { version = "1.0", features = ["derive"] }
